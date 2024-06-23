@@ -27,7 +27,7 @@ Realizar uma análise descritiva das variáveis para entender a distribuição e
 
 - Criar gráficos de dispersão, histogramas e correlações para visualizar a distribuição dos rankings e a relação entre as variáveis principais e os rankings.
 - Usar gráficos para destacar as propriedades com rankings mais altos e baixos.
-- 
+
 5 - Insights e Decisões:
 
 - Identificar imóveis com alto potencial de investimento com base nos rankings e nos fatores mais influentes.
