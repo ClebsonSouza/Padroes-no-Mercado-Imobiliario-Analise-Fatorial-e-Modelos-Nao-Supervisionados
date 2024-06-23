@@ -1,0 +1,1 @@
+# Padroes-no-Mercado-Imobiliario-Analise-Fatorial-e-Modelos-Nao-Supervisionados
